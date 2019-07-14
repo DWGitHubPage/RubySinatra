@@ -1,2 +1,3 @@
-# sinatra
-Messing around with Sinatra and Ruby
+# Ruby and Sinatra.
+
+Learning and working with Ruby and Sinatra.
