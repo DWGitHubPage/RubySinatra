@@ -1,6 +1,8 @@
+# Ruby2.6.3
+
 puts "Hello, World!"
 
-puts "Ruby Go Home!"
+puts "Ruby Go Home."
 
 
 # Similar to Python. Can't have two print statements and a print and puts will be on same line
