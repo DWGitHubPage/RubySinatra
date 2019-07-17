@@ -1,4 +1,4 @@
-# Ruby2.3.7p456
+# Ruby2.6.3
 
 (1..100).each do |n|
 a = String.new
